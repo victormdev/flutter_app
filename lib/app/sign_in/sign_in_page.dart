@@ -32,7 +32,14 @@ Widget _buildContent(){
     ),
       SizedBox(height: 60.0),
       CustomRaisedButtom(
-        child: Image.asset('images/google-logo.png'),
+        child: Row(
+          mainAxisAlignment: MainAxisAlignment.spaceBetween,
+          children: [
+            Image.asset('images/google-logo.png'),
+            Text('Fazer login com o Google'),
+            Image.asset('images/google-logo.png'),
+          ],
+        ),
         color: Colors.white,
         onPressed: () {},
       ),
