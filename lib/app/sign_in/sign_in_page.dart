@@ -30,27 +30,33 @@ Widget _buildContent(){
       ),
 
     ),
-    SizedBox(height: 8.0),
-      RaisedButton(
-        child: Text(
-            'Fazer login com o Google',
-            style: TextStyle(color: Colors.black87, fontSize: 15.0),
-        ),
+      SizedBox(height: 60.0),
+      SignInButton(
+        text: 'Fazer login com o Google',
+        textColor: Colors.black87,
         color: Colors.white,
-        shape: RoundedRectangleBorder(
-          borderRadius: BorderRadius.all(
-            Radius.circular(4.0),
-          )
-        ),
         onPressed: () {},
       ),
       SizedBox(height: 8.0),
       SignInButton(
         text: 'Fazer login com o Facebook',
-        textColor: Colors.black87,
-        color: Colors.white,
+        textColor: Colors.white,
+        color: Color(0xFF334D92),
         onPressed: () {},
       ),
+      SizedBox(height: 8.0),
+      SignInButton(
+        text: 'Fazer login com o e-mail',
+        textColor: Colors.white,
+        color: Colors.teal[700],
+        onPressed: () {},
+      ),
+      SizedBox(height: 40.0),
+      Text(
+          'Esqueci a minha senha',
+        style: TextStyle(fontSize: 14.0, color: Colors.black87),
+        textAlign: TextAlign.center,
+      )
     ],
     ),
     );
