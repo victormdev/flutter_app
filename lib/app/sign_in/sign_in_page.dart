@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_app/app/sign_in/sign_in_button.dart';
 import 'package:flutter_app/common_widgets/custom_raised_buttom.dart';
 
 class SignInPage extends StatelessWidget {
@@ -44,16 +45,10 @@ Widget _buildContent(){
         onPressed: () {},
       ),
       SizedBox(height: 8.0),
-      CustomRaisedButtom(
-        child: Text(
-          'Fazer login com o Facebook',
-          style: TextStyle(
-            color: Colors.black87,
-            fontSize: 15.0,
-          ),
-        ),
+      SignInButton(
+        text: 'Fazer login com o Facebook',
+        textColor: Colors.black87,
         color: Colors.white,
-        borderRadius: 4.0,
         onPressed: () {},
       ),
     ],
