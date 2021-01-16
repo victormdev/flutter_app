@@ -31,6 +31,12 @@ Widget _buildContent(){
 
     ),
       SizedBox(height: 60.0),
+      CustomRaisedButtom(
+        child: Image.asset('images/google-logo.png'),
+        color: Colors.white,
+        onPressed: () {},
+      ),
+      SizedBox(height: 8.0),
       SignInButton(
         text: 'Fazer login com o Google',
         textColor: Colors.black87,
@@ -51,7 +57,8 @@ Widget _buildContent(){
         color: Colors.teal[700],
         onPressed: () {},
       ),
-      SizedBox(height: 40.0),
+
+      SizedBox(height: 4.0),
       Text(
           'Esqueci a minha senha',
         style: TextStyle(fontSize: 14.0, color: Colors.black87),
