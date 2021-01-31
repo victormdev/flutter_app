@@ -1,6 +1,6 @@
 # flutter_app
 
-A new Flutter application.
+aplicação flutter + firebase com tela de login e listagem de notícias
 
 ![alt text](https://raw.githubusercontent.com/victormdev/study-flutter/main/images/print1.jpg)
 ![alt text](https://raw.githubusercontent.com/victormdev/study-flutter/main/images/print2.jpg)
