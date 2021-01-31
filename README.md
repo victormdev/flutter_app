@@ -1,4 +1,4 @@
-# flutter_app
+# app flutter
 
 aplicação flutter + firebase com tela de login e listagem de notícias
 
