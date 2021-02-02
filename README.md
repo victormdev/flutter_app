@@ -2,9 +2,9 @@
 
 aplicação flutter + firebase com tela de login e listagem de notícias
 
-![alt text](https://raw.githubusercontent.com/victormdev/study-flutter/main/images/print1.png)
-![alt text](https://raw.githubusercontent.com/victormdev/study-flutter/main/images/print2.png)
-![alt text](https://raw.githubusercontent.com/victormdev/study-flutter/main/images/print3.png)
+![alt text](https://raw.githubusercontent.com/victormdev/study-flutter/main/images/print1.jpg)
+![alt text](https://raw.githubusercontent.com/victormdev/study-flutter/main/images/print2.jpg)
+![alt text](https://raw.githubusercontent.com/victormdev/study-flutter/main/images/print3.jpg)
 
 ## Getting Started
 
