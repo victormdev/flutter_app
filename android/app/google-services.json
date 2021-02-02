@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "379325593639",
+    "project_id": "teste-bisnez",
+    "storage_bucket": "teste-bisnez.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379325593639:android:d33b4f55a14aac0f19b602",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379325593639-9ge8lcffoovpe54c40n744ea74oap30g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCafa9fzqNzbzF22fGTe0P58ZnKNPKXsOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379325593639-9ge8lcffoovpe54c40n744ea74oap30g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

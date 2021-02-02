@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">379325593639-9ge8lcffoovpe54c40n744ea74oap30g.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">379325593639</string>
+    <string name="google_api_key" translatable="false">AIzaSyCafa9fzqNzbzF22fGTe0P58ZnKNPKXsOk</string>
+    <string name="google_app_id" translatable="false">1:379325593639:android:d33b4f55a14aac0f19b602</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCafa9fzqNzbzF22fGTe0P58ZnKNPKXsOk</string>
+    <string name="google_storage_bucket" translatable="false">teste-bisnez.appspot.com</string>
+    <string name="project_id" translatable="false">teste-bisnez</string>
+</resources>
